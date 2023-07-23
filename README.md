@@ -14,4 +14,4 @@
 <img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-7610F7.svg?&style=for-the-badge&logo=bootstrap&logoColor=fff" />&nbsp;
 
 ## Социальные сети
-<a href="https://habr.com/ru/articles/649363/" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/linkedin-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=fff" /></a>
+<a href="https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80-%D0%BE%D0%B2%D1%87%D0%B0%D1%80%D0%BE%D0%B2-8524531bb/" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/linkedin-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=fff" /></a>
